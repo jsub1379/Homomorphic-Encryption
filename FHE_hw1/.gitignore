@@ -1,0 +1,13 @@
+# Visual Studio 임시 파일
+*.ipch
+*.suo
+*.user
+*.obj
+*.exe
+*.log
+*.ilk
+*.pch
+*.vcxproj.user
+.vs/
+Debug/
+Release/
